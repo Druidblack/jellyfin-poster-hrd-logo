@@ -1,6 +1,6 @@
 ![hdr test](https://github.com/user-attachments/assets/67e56841-0bf6-46e8-8fc3-d4676f21197c)
 
-# HDR Movie Poster Downloader for Jellyfin
+# A program for creating posters marked with HDR
 
 This program is designed to interact with the Jellyfin API, retrieve a list of HDR-supported movies, and automatically download their covers (posters) from The Movie Database (TMDb). The program also adds an HDR logo to the top right corner of all downloaded covers and saves the results in a local folder.
 
@@ -42,7 +42,7 @@ The program will automatically perform all specified functions, download and pro
 
 На русском языке
 
-# Программа для скачивания HDR постеров фильмов для Jellyfin
+# Программа для создания постеров с отметкой HDR
 
 Эта программа предназначена для взаимодействия с Jellyfin API, получения списка фильмов, поддерживающих HDR, и автоматической загрузки их обложек (постеров) с сайта The Movie Database (TMDb). Программа также добавляет логотип HDR в верхний правый угол всех загруженных обложек и сохраняет результаты в локальную папку.
 
